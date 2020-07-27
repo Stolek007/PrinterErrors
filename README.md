@@ -1,0 +1,2 @@
+# PrinterErrors
+JavaScript Codewars Exercise
